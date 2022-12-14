@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello world! Annamalai here.&width=800&height=400)](https://github.com/annamalaiprabu/svg-banners)
+[![MasterHead](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Annamalai Prabu</h1>
 <h3 align="center">A passionate software developer and competitive programmer from Bangalore, India</h3>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annamalaiprabu&show_icons=true&locale=en" alt="annamalaiprabu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annamalaiprabu&" alt="annamalaiprabu" /></p>
-
