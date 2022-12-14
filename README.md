@@ -1,5 +1,4 @@
-[![MasterHead](https://svg-banners.vercel.app/api?type=glitch&text1=Annamalai Prabu&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Annamalai Prabu</h1>
+<h1 align="center">Hi there👋, I'm Annamalai Prabu</h1>
 <h3 align="center">A passionate software developer and competitive programmer from Bangalore, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annamalaiprabu&label=Profile%20views&color=0e75b6&style=flat" alt="annamalaiprabu" /> </p>
