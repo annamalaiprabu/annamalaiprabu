@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annamalaiprabu" alt="annamalaiprabu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/AnnamalaiPrabu9" target="blank"><img src="https://img.shields.io/twitter/follow/assnnamalai?logo=twitter&style=for-the-badge" alt="assnnamalai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AnnamalaiPrabu9" target="blank"><img src="https://img.shields.io/twitter/follow/AnnamalaiPrabu9?logo=twitter&style=for-the-badge" alt="AnnamalaiPrabu9" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development and Data Structures & Algorithms. Also I love participating in Competitive Programming Contests.**
 
