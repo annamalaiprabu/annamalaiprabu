@@ -1,3 +1,4 @@
+<p align="center"><img src = "https://github.com/annamalaiprabu/annamalaiprabu/blob/main/gifs/gallery.gif"/></p>
 <h1 align="center">Heyy there 👋, I'm Annamalai</h1>
 <h3 align="center">A passionate web developer from Bangalore, India</h3>
 
