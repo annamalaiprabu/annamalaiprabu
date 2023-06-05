@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [100DaysOfCode](https://github.com/annamalaiprabu/100-Days-Of-Code/blob/main/dailylog.md)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently **learning**
 
 - 📫 How to reach me **annamalaiprabu9@gmail.com**
 
