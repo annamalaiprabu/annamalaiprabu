@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/AnnamalaiPrabu9" target="blank"><img src="https://img.shields.io/twitter/follow/AnnamalaiPrabu9?logo=twitter&style=for-the-badge" alt="AnnamalaiPrabu9" /></a> </p>
 
-- 🔭 I’m currently working on [100DaysOfCode](https://github.com/annamalaiprabu/100-Days-Of-Code/blob/main/dailylog.md)
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently **learning**
+- 🌱 I’m currently **learning DSA**
 
 - 📫 How to reach me **annamalaiprabu9@gmail.com**
 
