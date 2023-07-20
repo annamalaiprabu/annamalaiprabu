@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **annamalaiprabu9@gmail.com**
 
-- ⚡ Fun fact **Let's play chess at <a href="https://www.chess.com/member/annamalaiprabu"> here </a>**
+- ⚡ Fun fact : **Let's play Chess at <a href="https://www.chess.com/member/annamalaiprabu"> here </a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
