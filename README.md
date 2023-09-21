@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently **building Full Stack Projects**
+- 🌱 I’m currently **building projects over the MERN Stack**
 
 - 📫 How to reach me **annamalaiprabu9@gmail.com**
 
