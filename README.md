@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently **learning DSA**
+- 🌱 I’m currently **building Full Stack Projects**
 
 - 📫 How to reach me **annamalaiprabu9@gmail.com**
 
